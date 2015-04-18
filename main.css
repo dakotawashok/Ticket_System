@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, Helvetica, sans-seriff;
+    margin: 5px;
+    padding: 5px;
+}
+
+main {
+    width: auto;
+    margin: 5px;
+    padding: 5px;
+    background: white;
+    border: 2px solid navy;
+    float: left;
+}
+
+h1 {
+    color: navy;
+}
+
+label {
+    width: 10em;
+    padding-right: 1em;
+    float: left;
+}
+
+#data input {
+    float: left;
+    width: 60px;
+    margin-bottom: 5px;
+}
+
+#data span {
+    padding-left: .25em;
+}
+
+#buttons input {
+    float: left;
+    margin-bottom: .5em;
+}
+
+br {
+    clear: left;
+}
+
+fieldset {
+    width: auto;
+    background: #E8E8E8;
+    display: block;
+    margin: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+    border: 2px groove black;
+
+}
+
+fieldset#leftColumn {
+    width: 100px;
+    height: 400px;
+    float: left;
+    background: #E8E8E8;
+    display: block;
+    margin: 5px;
+    padding: 5px;
+    border: 2px groove black;
+    font-size: 10px;
+
+}
+
+table {
+	width: auto;
+}
+
+th {
+	border: 1px solid black;
+}
+
+td {
+	padding-left: 4px;
+	padding-right: 4px;
+}
